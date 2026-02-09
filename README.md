@@ -2,12 +2,12 @@
 Multilingual speech synthesis audio
 
 Multilingual speech synthesis samples,The audio in the folder adopts pcm_s16le encoding format and S16 sampling format, which is 1-channel (mono) audio with a sampling rate of 22050hz.
-CC-C denotes Chinese native speaker synthesized Mandarin.
-CC-E denotes Chinese native speaker synthesized Mandarin.
-CC-T denotes Chinese native speaker synthesized Mandarin.
-EE-C denotes English native speaker synthesized Mandarin.
-EE-E denotes synthetic Mandarin produced by native Mandarin speakers.
-EE-T denotes synthetic Mandarin produced by native Mandarin speakers.
-TT-C denotes synthetic Mandarin produced by native Mandarin speakers.
-TT-E denotes synthetic Mandarin produced by native Mandarin speakers.
-TT-T denotes synthetic Mandarin produced by native Mandarin speakers.
+CC-C denotes Chinese native speakers synthesizing Chinese.
+CC-E denotes Chinese native speakers synthesizing English.
+CC-T denotes Chinese native speakers synthesizing Tibetan.
+EE-C denotes English native speakers synthesizing Mandarin Chinese.
+EE-E denotes English native speakers synthesizing English.
+EE-T denotes English native speakers synthesizing Tibetan.
+TT-C denotes Tibetan native speakers synthesizing Mandarin Chinese.
+TT-E denotes Tibetan native speakers synthesizing English.
+TT-T denotes Tibetan native speakers synthesizing Tibetan.
